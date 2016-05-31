@@ -1,5 +1,5 @@
 ## Description:
-This assignment is about **neural networks** implementations with two questions.  I used Matlab to implement solutions.  You can see the question descriptions and my answers in [Assignment1_FanglinHe.docx](Assignment1_FanglinHe.docx).
+This assignment is about **neural networks** implementations with two questions.  I used Matlab to implement solutions.  You can see the question descriptions and my answers in [Assignment1_FanglinHe.pdf](Assignment1_FanglinHe.pdf).
 
 ----------------------------------------------------------------------------
 
