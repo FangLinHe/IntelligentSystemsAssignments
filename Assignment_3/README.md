@@ -1,0 +1,2 @@
+## Description:
+This assignment is questions about **Hidden Markov Models (HMM)**.  No implementation was needed.  You can see the question descriptions and my answers in [Assignment3_FanglinHe.pdf](Assignment3_FanglinHe.pdf).
