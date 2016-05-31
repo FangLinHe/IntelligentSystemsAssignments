@@ -1,0 +1,2 @@
+## Description:
+This assignment is questions about **Support Vector Machines**, like hyperplane, objective functions of hard-margin and soft-margin .  No implementation was needed.  You can see the question descriptions and my answers in [Assignment2_FanglinHe.pdf](Assignment2_FanglinHe.pdf).
