@@ -1,0 +1,2 @@
+## Description:
+This assignment is about **Reinforcement Learning** implementations with four questions.  I used Matlab to implement solutions.  You can see details of files in `Description of my programs` part in [Assignment4_FanglinHe.pdf](Assignment4_FanglinHe.pdf) and my answers in `My answers to questions` part in [Assignment4_FanglinHe.pdf](Assignment4_FanglinHe.pdf).
