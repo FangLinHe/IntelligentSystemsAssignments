@@ -1,0 +1,2 @@
+## Description:
+This assignment is about **Neural Network on MNIST** implementations with two questions.  I used Matlab to implement solutions.  You can see problem descriptions and my answers in [Bonus1_FanglinHe.pdf](Bonus1_FanglinHe.pdf).

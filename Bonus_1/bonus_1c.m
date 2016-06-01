@@ -1,0 +1,1 @@
+multiple_neural;%(training_data, training_label, test_data, test_label);
